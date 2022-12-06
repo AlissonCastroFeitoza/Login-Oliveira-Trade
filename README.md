@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Saint-Farma é um Login de um sistema com Sign In e Sign Up para uma empresa fícticia, nele é possível cadastro,login e logout.
+O Oliveira-Trade é um Login de um sistema com Sign In e Sign Up para uma empresa fícticia, nele é possível cadastro,login e logout.
 
 # Getting Started with Create React App
 
