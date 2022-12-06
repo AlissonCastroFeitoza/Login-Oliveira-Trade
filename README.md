@@ -1,3 +1,27 @@
+<h1 align="center"> Oliveira-Trade </h1>
+
+<p align="center">
+Login de Sign In e Sign Up realizado para empresa fícticia chamada Oliveira Trade.
+</p>
+
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
+
+<br>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- React 
+- LocalStorage
+
+## 💻 Projeto
+
+O Saint-Farma é um Login de um sistema com Sign In e Sign Up para uma empresa fícticia, nele é possível cadastro,login e logout.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
